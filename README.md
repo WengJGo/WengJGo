@@ -39,7 +39,7 @@
 
 <p align="left">
     <img src="https://img.shields.io/badge/迈首科技-d91c25?style=flat-square&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/广告位招租1?style=flat-square&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/广告位招租1-000000?style=flat-square&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/广告位招租2-d91c25?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/广告位招租3-000000?style=flat-square&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/广告位招租4-d91c25?style=flat-square&logo=git&logoColor=white" />
