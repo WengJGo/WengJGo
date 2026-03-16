@@ -3,7 +3,7 @@
         width="100%" />
 </div>
 
-<center>## 👋你好我是WenJGo！</center>
+<center>👋你好我是WenJGo！</center>
 <!-- Header with animated shark -->
 <p align="center">
   <a href="https://github.com/Sharky-shark-Blue">
@@ -34,7 +34,7 @@
 </h3>
 
 
-<center>## 博客地址:https://wenjgo.blog.csdn.net/</center>
+*  **博客地址** :  https://wenjgo.blog.csdn.net/
 
 *  **Email邮箱** :  [fishdogwenj@gmail.com](mailto:fishdogwenj@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; 
 
